@@ -1,6 +1,8 @@
 # REST-API
 
 This is a Q&A REST-API, I did using Node.js, Express.js and MongoDB.
+API's routing and test we're made using Postman
+
 In order to run the API locally:
 1. npm install
 2. run MongoDB
